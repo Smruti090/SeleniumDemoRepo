@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-04T04:35:51 IST" name="Suite" finished-at="2024-07-04T04:36:11 IST" duration-ms="20598">
+    <groups>
+    </groups>
+    <test started-at="2024-07-04T04:35:51 IST" name="Test" finished-at="2024-07-04T04:36:11 IST" duration-ms="20598">
+      <class name="mvnAndJenkinSession25.mvnAndJenkin.SampleTest">
+        <test-method signature="testOne()[pri:0, instance:mvnAndJenkinSession25.mvnAndJenkin.SampleTest@42e99e4a]" started-at="2024-07-04T04:35:51 IST" name="testOne" finished-at="2024-07-04T04:36:11 IST" duration-ms="20557" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOne -->
+      </class> <!-- mvnAndJenkinSession25.mvnAndJenkin.SampleTest -->
+      <class name="mvnAndJenkinSession25.mvnAndJenkin.TwoTest">
+        <test-method signature="TwoTest1()[pri:0, instance:mvnAndJenkinSession25.mvnAndJenkin.TwoTest@6dc17b83]" started-at="2024-07-04T04:36:11 IST" name="TwoTest1" finished-at="2024-07-04T04:36:11 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TwoTest1 -->
+      </class> <!-- mvnAndJenkinSession25.mvnAndJenkin.TwoTest -->
+      <class name="mvnAndJenkinSession25.mvnAndJenkin.ThreeTest">
+        <test-method signature="ThreeTest1()[pri:0, instance:mvnAndJenkinSession25.mvnAndJenkin.ThreeTest@5e0826e7]" started-at="2024-07-04T04:36:11 IST" name="ThreeTest1" finished-at="2024-07-04T04:36:11 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ThreeTest1 -->
+      </class> <!-- mvnAndJenkinSession25.mvnAndJenkin.ThreeTest -->
+      <class name="mvnAndJenkinSession25.mvnAndJenkin.OneTest">
+        <test-method signature="OneTest1()[pri:0, instance:mvnAndJenkinSession25.mvnAndJenkin.OneTest@5fdcaa40]" started-at="2024-07-04T04:36:11 IST" name="OneTest1" finished-at="2024-07-04T04:36:11 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OneTest1 -->
+      </class> <!-- mvnAndJenkinSession25.mvnAndJenkin.OneTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
